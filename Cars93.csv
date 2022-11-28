@@ -14,7 +14,7 @@
 13,Chevrolet,Corsica,Compact,11.4,11.4,11.4,25,34,Driver only,Front,4,2.2,110,5200,2665,Yes,15.6,5,184,103,68,39,26,14,2785,USA,Chevrolet Corsica
 14,Chevrolet,Camaro,Sporty,13.4,15.1,16.8,19,28,Driver & Passenger,Rear,6,3.4,160,4600,1805,Yes,15.5,4,193,101,74,43,25,13,3240,USA,Chevrolet Camaro
 15,Chevrolet,Lumina,Midsize,13.4,15.9,18.4,21,29,None,Front,4,2.2,110,5200,2595,No,16.5,6,198,108,71,40,28.5,16,3195,USA,Chevrolet Lumina
-16,Chevrolet,Lumina_APV,Van,14.7,16.3,18,18,23,None,Front,6,3.8,170,4800,1690,No,20,7,178,110,74,44,30.5,NA,3715,USA,Chevrolet Lumina_APV
+16,Chevrolet,Lumina_APV,Van,14.7,16.3,18,18,25,None,Front,6,3.8,170,4800,1690,No,20,7,178,110,74,44,30.5,NA,3715,USA,Chevrolet Lumina_APV
 17,Chevrolet,Astro,Van,14.7,16.6,18.6,15,20,None,4WD,6,4.3,165,4000,1790,No,27,8,194,111,78,42,33.5,NA,4025,USA,Chevrolet Astro
 18,Chevrolet,Caprice,Large,18,18.8,19.6,17,26,Driver only,Rear,8,5,170,4200,1350,No,23,6,214,116,77,42,29.5,20,3910,USA,Chevrolet Caprice
 19,Chevrolet,Corvette,Sporty,34.6,38,41.5,17,25,Driver only,Rear,8,5.7,300,5000,1450,Yes,20,2,179,96,74,43,NA,NA,3380,USA,Chevrolet Corvette
